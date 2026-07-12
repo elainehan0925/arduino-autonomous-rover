@@ -1,0 +1,1 @@
+This folder contains a mechanical design of the autonomous rover developed with SolidWorks
